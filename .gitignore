@@ -1,0 +1,17 @@
+# Atmel Studio / AVR build outputs
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.eep
+*.map
+*.lss
+*.srec
+*.atsuo
+.vs/
+*.componentinfo.xml
+*.cproj
+*.atsln
+*.rar
